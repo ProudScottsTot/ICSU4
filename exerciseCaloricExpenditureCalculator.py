@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 from msilib.schema import File
 file = open("MET_File.txt")
 
@@ -40,7 +39,3 @@ print(exercises)
 
 print(calculateExpenditure("bicycling", "bicycling, mountain, uphill, vigorous", 45, 70))
 
-=======
-from msilib.schema import File
-file = open("MET_File.txt")
->>>>>>> 29dfb97dff1c796e46e0681d3a073c634e877cf8
